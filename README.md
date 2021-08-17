@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ka-ling&fontSize=90" align="center" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kaling&fontSize=90" align="center" />
 
 <h3 align="center"><b> 👩‍💻Skills👩‍💻 </b></h3>
 </br>
