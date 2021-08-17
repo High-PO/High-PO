@@ -1,10 +1,12 @@
-### MySkills
-![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
-![css](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
-![discrod](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<h3 align="center"><b> Skills </b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp <!-- html -->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp   <!-- css -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp <!-- js -->
+<img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp  <!-- MySQL -->
+<img src="https://img.shields.io/badge/Premiere Pro-violet?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/After Effect-blueviolet?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/PhotoShop-blue?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
