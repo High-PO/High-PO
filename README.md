@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Kaling&fontSize=90&animation=twinkling" align="center" />
 
-<h3 align="center"><b> 👩‍💻My-Abilit</b></h3>
+<h3 align="center"><b> 👩‍💻Ability</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a> &nbsp <!-- html -->
