@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp  <!-- MySQL -->
 <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> &nbsp  <!-- PostgreSQL --> </br>
 <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C&logoColor=white"/></a> &nbsp <!-- C -->
-<img src="https://img.shields.io/badge/GOLang-blue?style=flat-square&logo=Go&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Premiere Pro-violet?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a> &nbsp <!-- Premiere pro --> 
 <img src="https://img.shields.io/badge/After Effect-blueviolet?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a> &nbsp <!-- After Effects -->
 <img src="https://img.shields.io/badge/PhotoShop-blue?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a> &nbsp <!-- Photo Shop --></br>
