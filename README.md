@@ -56,9 +56,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 </div>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7699c180-48b9-4978-94fd-e300234f03a9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </td></tr></table>  
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7699c180-48b9-4978-94fd-e300234f03a9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
