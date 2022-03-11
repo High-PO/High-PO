@@ -9,7 +9,7 @@
  <h1>My Blog Link</h1><br>
  </div>
 <div align ="center">
-  <h3><a href="https://velog.io/@highpo">Vlog/a></h3><
+  <h3><a href="https://velog.io/@highpo">Velog/a></h3><
   <h3><a href="https://itmango.tistory.com/">Tistory</a></h3>
 </div>
 </br>
