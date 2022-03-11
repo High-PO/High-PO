@@ -10,7 +10,7 @@
  </div>
 <div align ="center">
   <a href="https://velog.io/@highpo"><h3>vlog</h3></a>
-  <a href="https://itmango.tistory.com/"><h3>Tistory</h3></a>
+  <h3><a href="https://itmango.tistory.com/">Tistory</a></h3>
 </div>
 </br>
 <table><tr><td valign="top" width="50%"> 
