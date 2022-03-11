@@ -13,6 +13,7 @@
   <h3><a href="https://itmango.tistory.com/">Tistory</a></h3>
 </div>
 </br>
+<h1>My github Status</h1><br>
 <table><tr><td valign="top" width="50%"> 
 <img src="https://github-readme-stats.vercel.app/api?username=High-PO&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="left" style="width: 100%" />
 
