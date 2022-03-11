@@ -2,6 +2,8 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHigh-PO&count_bg=%23AB00FF&title_bg=%23FF8787&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> </p>
 
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 0px;" /></div> 
+
 </br>
 <table><tr><td valign="top" width="50%">
 
@@ -13,7 +15,7 @@
 
 </td></tr></table>  
 </br>
-<div style="display: flex;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 0px;" /></div> 
+
  
 
 
