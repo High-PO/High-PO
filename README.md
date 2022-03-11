@@ -4,7 +4,7 @@
 
 <p align="center">
 <div style="display: flex;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="76" style="width: 76px; height: 76px; margin-right: 50px; margin-bottom: 0px;" /></div> 
-<p align="center">
+</P>
 </br>
 <table><tr><td valign="top" width="50%">
 
