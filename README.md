@@ -9,8 +9,8 @@
  <h1>My Blog Link</h1><br>
  </div>
 <div align ="center">
-  <a href="https://velog.io/@highpo">vlog</a>
-  <a href="https://itmango.tistory.com/">Tistory</a>
+  <a href="https://velog.io/@highpo"><h3>vlog</h3></a>
+  <a href="https://itmango.tistory.com/"><h3>Tistory</h3></a>
 </div>
 </br>
 <table><tr><td valign="top" width="50%"> 
