@@ -6,12 +6,13 @@
 </br>
 
  <div align="center">
- <h2>Site</h2><br>
+ <h1>My Blog Link</h1><br>
  </div>
 <div align ="center">
   <a href="https://velog.io/@highpo">vlog</a>
   <a href="https://itmango.tistory.com/">Tistory</a>
 </div>
+</br>
 <table><tr><td valign="top" width="50%"> 
 <img src="https://github-readme-stats.vercel.app/api?username=High-PO&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="left" style="width: 100%" />
 
