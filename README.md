@@ -5,9 +5,8 @@
 </P>
 </br>
 
- 
  <div align="center">
- Site<br>
+ <h2>Site</h2><br>
  </div>
 <div align ="center">
   <a href="https://velog.io/@highpo">vlog</a>
