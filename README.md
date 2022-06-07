@@ -8,7 +8,7 @@
     <img
       alt="AWS SAA"
       height="90"
-      src="https://images.credly.com/size/300x300/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+      src="https://images.credly.com/size/300x300/images/7699c180-48b9-4978-94fd-e300234f03a9/image.png"
     />
   </a>
 <h1>📈My github Status📈</h1><br>
