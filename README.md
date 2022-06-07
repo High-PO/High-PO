@@ -12,18 +12,7 @@
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=High-PO&hide_border=true&layout=compact&theme=gruvbox" align="left" style="width: 100%" />
-
 </td></tr></table>  
 </br>
 </div>
- 
-
-
-
-
-
 </td></tr></table>  
-
-
-
-
