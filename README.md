@@ -2,15 +2,13 @@
 
 
 
-
+  <hr style="width: 60%; border: 0.5px solid #ddd; margin: 32px 0;" />
   <h2 style="font-size: 22px; margin-bottom: 10px;">💡 About me 💡</h2>
   <p style="font-size: 15px; max-width: 600px; line-height: 1.6; margin-bottom: 30px;">
     DevOps Engineer based in Korea 🇰🇷<br>
     Building cloud-native systems that are scalable, observable, and self-recovering.<br>
     Focused on Platform Engineering and Infrastructure Engineering.
   </p>
-
-  <hr style="width: 60%; border: 0.5px solid #ddd; margin: 32px 0;" />
 
   <h2 style="font-size: 22px; margin-bottom: 10px;">🔧 Main Stack 🔧</h2>
   <p style="font-size: 14px; color: #555; line-height: 1.8; margin-bottom: 30px;">
@@ -33,5 +31,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"/>
     </a>
   </p>
+  <hr style="width: 60%; border: 0.5px solid #ddd; margin: 32px 0;" />
 
 </div>
