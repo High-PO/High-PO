@@ -18,12 +18,16 @@
   </div>
   
   <p style="margin-bottom: 40px;">
+    <a href="https://blog.itmango.net"> 
+      Blog
+    </a>
+    &nbsp;
     <a href="mailto:promotion0402@gmail.com">
-      <img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white"/>
+      Mail
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/iizuna">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"/>
+      LinkedIn
     </a>
   </p>
 <!--   <hr style="width: 60%; border: 0.5px solid #ddd; margin: 32px 0;" />
