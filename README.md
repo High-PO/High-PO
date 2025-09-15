@@ -13,7 +13,7 @@
  </div>
  -->
  <a href="https://github.com/High-PO/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=High-PO" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=High-PO&count_private=true" />
  </a>
 
  <p style="margin-bottom: 40px;">
