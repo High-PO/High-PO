@@ -1,8 +1,8 @@
 <div align="center" style="font-family: 'Segoe UI', sans-serif; color: #333;">
  <h1>I'm a DevOps Engineer</h1>
  <p>
-   Building cloud-native systems that are scalable, observable, and self-recovering.<br>
-   Focused on Platform Engineering and Infrastructure Engineering.
+   Engineering reliable, cloud-native systems that scale effortlessly and recover automatically. <br>
+   Focused on SRE, Deployment, and Platform Engineering.
  </p>
 <!--
  <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-bottom: 30px;">
