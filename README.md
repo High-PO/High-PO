@@ -12,9 +12,9 @@
    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" width="60" />
  </div>
  -->
- <a href="https://github.com/High-PO/github-readme-stats">
+<!--  <a href="https://github.com/High-PO/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=High-PO&count_private=true" />
- </a>
+ </a> -->
 
  <p style="margin-bottom: 40px;">
    <a href="https://blog.itmango.net">Blog</a>
