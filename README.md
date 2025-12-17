@@ -1,6 +1,6 @@
 <div align="center" style="font-family: 'Segoe UI', sans-serif; color: #333;">
  <!-- <h1></h1> -->
- <img src="./img/mcdonalds.jpeg" alt="mcdonalds" width="300" />
+ <img src="./img/mcdonalds.jpeg" alt="mcdonalds" width="900" />
  <p>
    Bridging Dev-Ops gaps by implementing SRE in the public cloud.
  </p>
