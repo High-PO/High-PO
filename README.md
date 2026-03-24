@@ -2,7 +2,7 @@
  <!-- <h1></h1> -->
  <img src="./img/mcdonalds.jpeg" alt="mcdonalds" width="900" />
  <h2>
-   Bridging Devleopment-Operations gaps by implementing Site Reliability the public cloud.
+   Bridging Dev-Ops gaps by implementing Site Reliability the public cloud.
  </h2>
 <!--
  <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-bottom: 30px;">
