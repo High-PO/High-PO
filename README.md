@@ -23,5 +23,9 @@
    &nbsp;
    <a href="https://www.linkedin.com/in/iizuna">LinkedIn</a>
  </p>
- 
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=high-po&layout=compact&hide=html,css&theme=radical" 
+       alt="Language Status" 
+       height="165" />
+</div>
 </div>
