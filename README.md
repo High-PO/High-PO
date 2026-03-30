@@ -1,6 +1,6 @@
 <div align="center" style="font-family: 'Segoe UI', sans-serif; color: #333;">
  <!-- <h1></h1> -->
- <img src="./img/mcdonalds.jpeg" alt="mcdonalds" width="900" />
+ <img src="./img/McDonalds.png" alt="mcdonalds" width="900" />
  <h2>
    Bridging Dev-Ops gaps by implementing Site Reliability the public cloud.
  </h2>
