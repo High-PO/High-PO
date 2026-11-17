@@ -1,8 +1,11 @@
 <div align="center" style="font-family: 'Segoe UI', sans-serif; color: #333;">
  <!-- <h1></h1> -->
- <img src="./img/McDonalds.png" alt="mcdonalds" width="900" />
- <h2>
+ <!-- <img src="./img/McDonalds.png" alt="mcdonalds" width="900" /> -->
+ <!-- <h2>
    Bridging Dev-Ops gaps by implementing Site Reliability the public cloud.
+ </h2> -->
+ <h2>
+   Company Reliability Engineering in the Infrastructure
  </h2>
 <!--
  <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-bottom: 30px;">
