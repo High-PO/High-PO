@@ -5,7 +5,7 @@
    Bridging Dev-Ops gaps by implementing Site Reliability the public cloud.
  </h2> -->
  <h2>
-   Company Reliability Engineering in the Infrastructure
+   Company Reliability Engineering in Infrastructure
  </h2>
 <!--
  <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-bottom: 30px;">
